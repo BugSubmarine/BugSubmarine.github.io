@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+
+body {
+    padding-top:100px;
+    background: linear-gradient(rgb(51, 82, 255) 40%, rgb(255, 255, 255) 100%);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+    text-align: center;
+}
+
+#temperature {
+    font-size: 42px;
+}
+
+img {
+    width: 100px;
+    justify-content:center;
+    text-align: center;
+}
+
+p {
+    width: max-content;
+    margin-left: auto; margin-right: auto;
+}
